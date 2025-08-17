@@ -1,0 +1,23 @@
+/* Universal font for all elements */
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Style for all paragraphs */
+p {
+    background-color: cornsilk;
+    color: brown;
+}
+
+/* ID selector for main content */
+#main-content {
+    background-color: lightblue;
+    padding: 15px;
+}
+
+/* Class selector for styled text */
+.section-text {
+    font-size: 15px;
+    color: darkblue;
+    text-align: right;
+}
